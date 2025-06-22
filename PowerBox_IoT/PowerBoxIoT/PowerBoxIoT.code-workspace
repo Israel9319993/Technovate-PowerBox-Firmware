@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Firmware Code",
+			"path": "../Bus-Tracker-BusStop-Notify/Firmware Code"
+		}
+	],
+	"settings": {}
+}
